@@ -28,6 +28,6 @@ https://asrabilal.github.io/JSPasswordGenerator/
 
 * The URL of the GitHub repository that contains your code. Give the repository a unique name and include a README file that describes the project.
 
-https://github.com/asrabilal/JSPasswordGenerator.git
+https://github.com/asrabilal/CodeQuiz.git
 
 © 2022 Asra Solution Sevices, Inc.
