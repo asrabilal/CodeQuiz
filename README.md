@@ -26,7 +26,7 @@ JAVASCRIPT
 
 https://asrabilal.github.io/CodeQuiz/
 
-* The URL of the GitHub repository that contains your code. Give the repository a unique name and include a README file that describes the project.
+* The URL of the GitHub repository that contains code.
 
 https://github.com/asrabilal/CodeQuiz.git
 
